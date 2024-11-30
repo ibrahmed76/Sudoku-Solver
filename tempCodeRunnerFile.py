@@ -1,0 +1,1 @@
+row[sudoku[i][j]] = 1
